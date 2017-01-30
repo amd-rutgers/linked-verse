@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Amiri", "Georgia", serif;
+  font-size: 5vmin;
+  badkground-color: snow;
+}
+.lines {
+  position: absolute;
+  text-align: left;
+  top: 15vh;
+  left: 15vw;
+}
+.line {
+  line-height: 7vmin;
+  color: snow;
+}
+.line-1 {
+  text-shadow: -1vmin -1vmin 6vmin lightsteelblue;
+}
+.line-2 {
+  text-shadow: 0 0 6vmin darkgrey;
+  margin-top: 10vh;
+  padding-left: 15vw; 
+}
+.line-3 {
+  text-shadow: 1vmin 1vmin 6vmin steelblue;
+  margin-top: 20vh;
+  padding-left: 8vw;
+}
